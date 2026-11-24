@@ -1,0 +1,13 @@
+{
+  "record_id": "DEC-HIST-002",
+  "situation_id": "supplier_delay",
+  "situation_title": "Customs Hold-up on Microchip Lot",
+  "date": "2024-06-18",
+  "applied_strategy": "Expedited Air Freight + Priority Buffer",
+  "expected_utility": 0.81,
+  "estimated_cost": 22000,
+  "realized_outcome": 0.79,
+  "outcome_status": "SUCCESS",
+  "delta_utility": -0.02,
+  "summary": "Chartered expedited cargo flight to bypass dock strikes; critical line resumed production within 5 days."
+}

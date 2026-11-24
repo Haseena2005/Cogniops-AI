@@ -1,0 +1,8 @@
+POLICY CODE: POL-008
+TITLE: Single-Source Vendor Mitigation & Resilience Mandate
+CATEGORY: Strategic Sourcing
+RULES:
+1. No single supplier may account for more than 45% of critical bill-of-materials components without dual-sourcing contracts.
+2. Secondary supplier qualification audits must be refreshed every 180 days.
+3. Standby allocation agreements must guarantee 30% volume delivery within 10 calendar days of invocation.
+4. Foreign currency hedging must accompany international component re-routing.

@@ -1,0 +1,13 @@
+{
+  "record_id": "DEC-HIST-001",
+  "situation_id": "supplier_delay",
+  "situation_title": "Apex Logistics Port Congestion",
+  "date": "2024-04-12",
+  "applied_strategy": "Dual-Source Split (Activate Nordic Precision)",
+  "expected_utility": 0.88,
+  "estimated_cost": 28000,
+  "realized_outcome": 0.92,
+  "outcome_status": "SUCCESS",
+  "delta_utility": 0.04,
+  "summary": "Transferred 40% of microchip procurement to Nordic Precision; avoided $145,000 order cancellation penalty."
+}

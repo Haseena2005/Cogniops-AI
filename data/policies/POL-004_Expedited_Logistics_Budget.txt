@@ -1,0 +1,8 @@
+POLICY CODE: POL-004
+TITLE: Emergency Expedited Freight Expenditure Limits
+CATEGORY: Logistics & Freight
+RULES:
+1. Emergency air freight authorizations are capped at $25,000 per single procurement event.
+2. Expedited freight is only authorized for orders with contract penalties exceeding air freight premiums.
+3. Cumulative monthly emergency shipping variances must not breach $75,000 across all warehouses.
+4. Carbon offset requirements apply to all expedited cargo lanes.

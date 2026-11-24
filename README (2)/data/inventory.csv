@@ -1,0 +1,9 @@
+product_id,product_name,current_stock,reorder_level,safety_stock,lead_time_days,warehouse_id,stockout_risk_flag
+PROD-01,OmniSensor X1,140,450,270,32,WH-CENTRAL,1
+PROD-02,OptiFlow Valve,210,300,180,28,WH-CENTRAL,1
+PROD-03,CyberShield Gateway,502,292,175,14,WH-CENTRAL,0
+PROD-04,AeroDrive Motor 500,420,302,181,9,WH-COASTAL,0
+PROD-05,DataCore Telemetry Hub,614,274,164,14,WH-COASTAL,0
+PROD-06,ThermalGuard Sensor,772,299,179,14,WH-COASTAL,0
+PROD-07,VoltPulse Relay,530,349,209,11,WH-COASTAL,0
+PROD-08,Synapse Neural Unit,743,237,142,8,WH-COASTAL,0

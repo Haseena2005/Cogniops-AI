@@ -1,0 +1,13 @@
+{
+  "record_id": "DEC-HIST-005",
+  "situation_id": "sales_decline",
+  "situation_title": "Eastern Territory Channel Defection",
+  "date": "2024-07-22",
+  "applied_strategy": "Distributor Margin Rebate Restructuring",
+  "expected_utility": 0.75,
+  "estimated_cost": 25000,
+  "realized_outcome": 0.73,
+  "outcome_status": "SUCCESS",
+  "delta_utility": -0.02,
+  "summary": "Realigned commission structure for tier-1 distributors in East territory; recovered 85% of target volume."
+}

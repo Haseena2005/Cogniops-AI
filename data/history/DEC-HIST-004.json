@@ -1,0 +1,13 @@
+{
+  "record_id": "DEC-HIST-004",
+  "situation_id": "sales_decline",
+  "situation_title": "Mid-Atlantic Market Share Loss",
+  "date": "2024-05-10",
+  "applied_strategy": "12% Targeted Promotional Incentive & Sales Blitz",
+  "expected_utility": 0.79,
+  "estimated_cost": 32000,
+  "realized_outcome": 0.84,
+  "outcome_status": "SUCCESS",
+  "delta_utility": 0.05,
+  "summary": "Targeted pricing stimulus combined with regional distributor webinars reversed sales drop within 45 days."
+}

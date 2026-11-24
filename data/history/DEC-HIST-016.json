@@ -1,0 +1,13 @@
+{
+  "record_id": "DEC-HIST-016",
+  "situation_id": "customer_churn_spike",
+  "situation_title": "Contract Renegotiation Discontent",
+  "date": "2024-11-28",
+  "applied_strategy": "Executive Sponsor Outreach + Multi-Year Cap",
+  "expected_utility": 0.84,
+  "estimated_cost": 29000,
+  "realized_outcome": 0.87,
+  "outcome_status": "SUCCESS",
+  "delta_utility": 0.03,
+  "summary": "Structured multi-year price locks for key enterprise accounts in exchange for renewal commitment."
+}

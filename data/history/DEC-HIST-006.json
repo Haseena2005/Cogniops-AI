@@ -1,0 +1,13 @@
+{
+  "record_id": "DEC-HIST-006",
+  "situation_id": "sales_decline",
+  "situation_title": "Northeast Slump In Demand",
+  "date": "2024-09-14",
+  "applied_strategy": "Aggressive 25% Blanket Price Slash",
+  "expected_utility": 0.65,
+  "estimated_cost": 65000,
+  "realized_outcome": 0.45,
+  "outcome_status": "FAILURE",
+  "delta_utility": -0.2,
+  "summary": "Policy violation (exceeded 15% discount limit); eroded gross margin without lasting volume recovery."
+}

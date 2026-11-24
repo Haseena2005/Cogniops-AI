@@ -1,0 +1,13 @@
+{
+  "record_id": "DEC-HIST-010",
+  "situation_id": "customer_churn_spike",
+  "situation_title": "Enterprise Tier Service Degradation",
+  "date": "2024-04-28",
+  "applied_strategy": "Executive Sponsor Outreach + 8% Retention Credit",
+  "expected_utility": 0.86,
+  "estimated_cost": 38000,
+  "realized_outcome": 0.88,
+  "outcome_status": "SUCCESS",
+  "delta_utility": 0.02,
+  "summary": "Deployed technical account managers to top 15 accounts; churn dropped from 34% back to baseline 7%."
+}

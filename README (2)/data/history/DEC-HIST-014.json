@@ -1,0 +1,13 @@
+{
+  "record_id": "DEC-HIST-014",
+  "situation_id": "sales_decline",
+  "situation_title": "Southern Region Seasonal Dip",
+  "date": "2024-10-25",
+  "applied_strategy": "Regional Roadshow & Partner Enablement",
+  "expected_utility": 0.8,
+  "estimated_cost": 26000,
+  "realized_outcome": 0.82,
+  "outcome_status": "SUCCESS",
+  "delta_utility": 0.02,
+  "summary": "Co-op advertising spend with southern regional integrators revived project pipeline."
+}

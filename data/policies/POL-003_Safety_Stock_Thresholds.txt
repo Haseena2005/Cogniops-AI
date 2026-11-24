@@ -1,0 +1,8 @@
+POLICY CODE: POL-003
+TITLE: Minimum Inventory Safety Stock & Replenishment Policy
+CATEGORY: Inventory Management
+RULES:
+1. Warehouse stock for category 'IoT Hardware' must maintain at least 60% of reorder level as non-negotiable safety buffer.
+2. Inter-warehouse transfers between WH-CENTRAL and WH-COASTAL are mandatory when stock falls below safety buffer.
+3. Autonomous stock rebalancing must not deplete the donor warehouse beyond 40% of its regional baseline.
+4. Priority fulfillment is enforced for Enterprise segment customer orders when inventory is constrained.

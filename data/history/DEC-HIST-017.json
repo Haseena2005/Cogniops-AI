@@ -1,0 +1,13 @@
+{
+  "record_id": "DEC-HIST-017",
+  "situation_id": "supplier_delay",
+  "situation_title": "Semiconductor Packaging Line Slowdown",
+  "date": "2024-12-10",
+  "applied_strategy": "Expedited Air Freight + Priority Buffer",
+  "expected_utility": 0.82,
+  "estimated_cost": 24000,
+  "realized_outcome": 0.81,
+  "outcome_status": "SUCCESS",
+  "delta_utility": -0.01,
+  "summary": "Activated priority logistics lane; secured arrival before year-end production freeze."
+}

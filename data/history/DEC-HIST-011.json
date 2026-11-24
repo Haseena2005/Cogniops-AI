@@ -1,0 +1,13 @@
+{
+  "record_id": "DEC-HIST-011",
+  "situation_id": "customer_churn_spike",
+  "situation_title": "Mid-Market Dissatisfaction Spike",
+  "date": "2024-06-30",
+  "applied_strategy": "Extended Warranty & Premium SLA Upgrade",
+  "expected_utility": 0.78,
+  "estimated_cost": 21000,
+  "realized_outcome": 0.76,
+  "outcome_status": "SUCCESS",
+  "delta_utility": -0.02,
+  "summary": "Offered free 12-month tier-2 support upgrades; retained 88% of renewal contract pool."
+}

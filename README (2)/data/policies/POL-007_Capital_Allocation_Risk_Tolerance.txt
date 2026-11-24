@@ -1,0 +1,8 @@
+POLICY CODE: POL-007
+TITLE: Enterprise Operational Risk Tolerance & Capital Protection
+CATEGORY: Corporate Governance
+RULES:
+1. Any operational strategy with worst-case downside exceeding $100,000 requires Chief Risk Officer approval.
+2. Expected utility calculations must incorporate a 95% Value-at-Risk (VaR) penalty parameter.
+3. Autonomous recommendation pipelines must present at least one conservative fallback strategy.
+4. Human-in-the-loop signoff is mandatory for all irreversible contractual commitments.

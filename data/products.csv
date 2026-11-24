@@ -1,0 +1,9 @@
+product_id,name,category,unit_price,unit_cost,supplier_id
+PROD-01,OmniSensor X1,IoT Hardware,450.0,210.0,SUP-01
+PROD-02,OptiFlow Valve,Industrial Valves,780.0,390.0,SUP-01
+PROD-03,CyberShield Gateway,Edge Security,1200.0,650.0,SUP-02
+PROD-04,AeroDrive Motor 500,Motors & Drives,850.0,420.0,SUP-02
+PROD-05,DataCore Telemetry Hub,Networking,620.0,310.0,SUP-03
+PROD-06,ThermalGuard Sensor,IoT Hardware,320.0,140.0,SUP-03
+PROD-07,VoltPulse Relay,Power Modules,260.0,115.0,SUP-04
+PROD-08,Synapse Neural Unit,Embedded AI,1550.0,820.0,SUP-04

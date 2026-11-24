@@ -1,0 +1,13 @@
+{
+  "record_id": "DEC-HIST-003",
+  "situation_id": "supplier_delay",
+  "situation_title": "Apex Tier-1 Yield Decline",
+  "date": "2024-08-04",
+  "applied_strategy": "Status Quo (Wait for Batch Completion)",
+  "expected_utility": 0.42,
+  "estimated_cost": 0,
+  "realized_outcome": 0.28,
+  "outcome_status": "FAILURE",
+  "delta_utility": -0.14,
+  "summary": "Management opted to wait; delay extended by 18 days leading to loss of 3 enterprise clients."
+}

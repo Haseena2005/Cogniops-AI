@@ -1,0 +1,13 @@
+{
+  "record_id": "DEC-HIST-009",
+  "situation_id": "inventory_shortage",
+  "situation_title": "CyberShield Stock Depletion",
+  "date": "2024-10-11",
+  "applied_strategy": "Emergency Spot Market Component Purchase",
+  "expected_utility": 0.83,
+  "estimated_cost": 34000,
+  "realized_outcome": 0.8,
+  "outcome_status": "SUCCESS",
+  "delta_utility": -0.03,
+  "summary": "Purchased 200 units on secondary spot market at 35% premium; protected key enterprise renewal."
+}

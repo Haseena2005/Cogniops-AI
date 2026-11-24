@@ -1,0 +1,13 @@
+{
+  "record_id": "DEC-HIST-013",
+  "situation_id": "supplier_delay",
+  "situation_title": "Raw Silicon Wafer Quota Delays",
+  "date": "2024-09-05",
+  "applied_strategy": "Dual-Source Split (Pacifica Electronics)",
+  "expected_utility": 0.85,
+  "estimated_cost": 31000,
+  "realized_outcome": 0.89,
+  "outcome_status": "SUCCESS",
+  "delta_utility": 0.04,
+  "summary": "Rerouted wafer orders to Pacifica Electronics; bridged supply gap with minimal yield differential."
+}

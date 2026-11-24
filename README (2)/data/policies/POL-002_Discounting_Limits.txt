@@ -1,0 +1,8 @@
+POLICY CODE: POL-002
+TITLE: Maximum Promotional Discounting & Pricing Guardrails
+CATEGORY: Sales & Commercial Operations
+RULES:
+1. Maximum standard sales discount cannot exceed 15.0% without CFO authorization.
+2. Promotional discount campaigns aiming to reverse regional sales drops are limited to a 90-day execution window.
+3. Price reductions must never cause product gross profit margin to drop below 28.0%.
+4. Bundled discounting across product lines requires automated margin contribution validation.

@@ -1,0 +1,8 @@
+POLICY CODE: POL-005
+TITLE: Enterprise Account SLA Breach & Customer Retention Protocol
+CATEGORY: Customer Success & Accounts
+RULES:
+1. Any enterprise customer with satisfaction below 3.5 or delayed orders must be assigned an Executive Sponsor within 48 hours.
+2. Retention concession credits are authorized up to 10.0% of Annual Contract Value (ACV) to prevent churn.
+3. Contract termination penalties may be waived if delay exceeds 20 business days due to supplier bottleneck.
+4. Proactive SLA delivery credits must be credited before billing cycles close.

@@ -1,0 +1,13 @@
+{
+  "record_id": "DEC-HIST-007",
+  "situation_id": "inventory_shortage",
+  "situation_title": "Central Hub OmniSensor Stockout Threat",
+  "date": "2024-03-19",
+  "applied_strategy": "Inter-Warehouse Emergency Stock Rebalance",
+  "expected_utility": 0.89,
+  "estimated_cost": 12500,
+  "realized_outcome": 0.91,
+  "outcome_status": "SUCCESS",
+  "delta_utility": 0.02,
+  "summary": "Reallocated 320 units from Coastal distribution warehouse to Central hub; 0 order SLA breaches."
+}

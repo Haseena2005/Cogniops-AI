@@ -1,0 +1,13 @@
+{
+  "record_id": "DEC-HIST-018",
+  "situation_id": "sales_decline",
+  "situation_title": "Central Region Enterprise Freeze",
+  "date": "2024-12-20",
+  "applied_strategy": "Targeted Solution Bundling",
+  "expected_utility": 0.77,
+  "estimated_cost": 19000,
+  "realized_outcome": 0.75,
+  "outcome_status": "SUCCESS",
+  "delta_utility": -0.02,
+  "summary": "Bundled hardware with cyber-security gateways to boost deal value and shorten sales cycle."
+}

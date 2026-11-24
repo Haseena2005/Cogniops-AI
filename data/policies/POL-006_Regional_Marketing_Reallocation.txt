@@ -1,0 +1,8 @@
+POLICY CODE: POL-006
+TITLE: Regional Demand Stimulation & Ad-Spend Reallocation
+CATEGORY: Marketing
+RULES:
+1. Marketing reallocation to depressed sales territories is capped at $40,000 per quarter.
+2. In-region lead generation campaigns must demonstrate a projected payback ratio of at least 2.5x revenue lift.
+3. Channel marketing subsidies require joint commitment from certified regional distribution partners.
+4. Budget cannibalization from growing regions must not exceed 12% of donor region marketing capital.

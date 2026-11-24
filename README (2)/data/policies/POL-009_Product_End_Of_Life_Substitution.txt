@@ -1,0 +1,8 @@
+POLICY CODE: POL-009
+TITLE: Component Substitution & Product Cross-Compatibility Guidelines
+CATEGORY: Engineering & Manufacturing
+RULES:
+1. Substituting micro-controllers or sensors with alternative part numbers requires QA automated bench-test clearance.
+2. Direct pin-compatible substitutions are permissible during stockouts if performance variance is under 3%.
+3. Customer notification is mandatory if component revision changes exterior casing dimensions or firmware signatures.
+4. Scrap allowances for replaced legacy inventory are capped at $15,000 per incident.

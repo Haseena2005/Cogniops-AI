@@ -1,0 +1,13 @@
+{
+  "record_id": "DEC-HIST-008",
+  "situation_id": "inventory_shortage",
+  "situation_title": "OptiFlow Valve Supply Crunch",
+  "date": "2024-07-02",
+  "applied_strategy": "Selective Order Rationing & Backorder Guarantees",
+  "expected_utility": 0.72,
+  "estimated_cost": 8000,
+  "realized_outcome": 0.74,
+  "outcome_status": "SUCCESS",
+  "delta_utility": 0.02,
+  "summary": "Prioritized high-ACV enterprise orders while offering partial discount credits for SMB delayed shipments."
+}

@@ -1,0 +1,8 @@
+POLICY CODE: POL-001
+TITLE: Supplier Switching & Dual-Sourcing Governance
+CATEGORY: Procurement & Supply Chain
+RULES:
+1. Switching tier-1 component suppliers requires VP Procurement sign-off if financial exposure exceeds $50,000.
+2. Expedited onboarding of secondary vendors is approved when existing supplier delay exceeds 14 business days.
+3. Secondary supplier quality rating must be at least 4.2 out of 5.0.
+4. Expedited shipping surcharge multiplier is strictly capped at 1.5x standard logistics baseline cost.

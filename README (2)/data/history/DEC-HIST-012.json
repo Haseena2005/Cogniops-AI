@@ -1,0 +1,13 @@
+{
+  "record_id": "DEC-HIST-012",
+  "situation_id": "customer_churn_spike",
+  "situation_title": "SMB Cancellation Cluster",
+  "date": "2024-08-19",
+  "applied_strategy": "Automated Survey & Inaction",
+  "expected_utility": 0.45,
+  "estimated_cost": 1500,
+  "realized_outcome": 0.31,
+  "outcome_status": "FAILURE",
+  "delta_utility": -0.14,
+  "summary": "Automated email apology failed to address delivery dissatisfaction; 22 SMB clients churned."
+}
